@@ -1,4 +1,4 @@
 Welcome to my project
 
-Author: Hussein Hamadi
+Author: Hussein Mohamad Hamadi
 Twitter: @HamadhHoussein
